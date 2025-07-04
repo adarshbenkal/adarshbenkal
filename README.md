@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Adarsh 👋
 
-<!--
-**adarshbenkal/adarshbenkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Engineering Student  
+💻 Aspiring Software & AI Engineer  
+🚀 Passionate about building real-world, impactful projects
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Current Focus
+- 🔁 Practicing DSA daily (Leetcode + striver's sheet)
+- 📘 Deep-diving into OS, DBMS, CN, and OOP (GFG LMN)
+- 🔧 Learning full-stack development
+- 🤖 Working on an AI-powered productivity project
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+Languages: Python,C++,javascrip(learning)
+Frontend: React, TailwindCSS(in progress)
+Backend: Node.js, Express(building now)
+AI Tools: Hugging Face Transformers, FastAPI(hands on project coming)
+Tools: Git, GitHub, Notion    
+
+📌 Projects (Coming Soon)
+ AI Captioning & Summarization Tool (in development)
+
+ OS Simulator: Process Scheduling Visualizer (planned for september)
+
+📬 Let's Connect
+LinkedIn:https://www.linkedin.com/in/adarsh-benkal-94b26b373
